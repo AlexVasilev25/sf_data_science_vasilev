@@ -9,7 +9,7 @@
 
 [4. Этапы работы над проектом](https://github.com/AlexVasilev25/sf_data_science_vasilev/blob/main/project_0/README.md#Этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/AlexVasilev25/sf_data_science_vasilev/blob/main/project_0/README.md#Результаты)
+[5. Результат](https://github.com/AlexVasilev25/sf_data_science_vasilev/blob/main/project_0/README.md#Результат)
 
 [6. Выводы](https://github.com/AlexVasilev25/sf_data_science_vasilev/blob/main/project_0/README.md#Выводы)
 
